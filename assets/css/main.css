@@ -465,7 +465,6 @@ img {
         #hexa-grid .hexagon-container .hexagon .hex-in .image {
           width: 100%;
           height: 100%;
-          position: absolute;
           background: red;
           -webkit-transform: rotate(-60deg);
           -moz-transform: rotate(-60deg);
