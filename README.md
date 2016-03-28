@@ -8,4 +8,7 @@ Directions
 
 about.scss contains basic grid CSS code. View index.html for implementation
 
+Call the following to create the GRID
+
+	var hexaGrid = new HexagonGrid('#hexa-grid', 18	);
 
