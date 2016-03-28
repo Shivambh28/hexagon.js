@@ -7,5 +7,5 @@ Directions
 ==============
 
 about.scss contains basic grid CSS code. View index.html for implementation
---------------
+
 
