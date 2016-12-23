@@ -1,11 +1,11 @@
 # hexagon.js
-Create Hexagon Grid using Javascript and CSS (Responsive Design) - by Shivam Bhalla
+Create Hexagon Grid using Javascript and CSS (Responsive)
 
 ![Alt text](/assets/img/gitpic.png?raw=true "Hexagon Grid")
 
 Demo:
 
-http://www.devncode.com/hexagon-js/
+http://www.devncode.com/hex/
 
 Directions
 ==============
