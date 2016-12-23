@@ -5,7 +5,7 @@ Create Hexagon Grid using Javascript and CSS (Responsive)
 
 Demo:
 
-http://www.devncode.com/hex/
+http://www.devncode.com/_projects/hex/
 
 Directions
 ==============
